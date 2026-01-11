@@ -47,17 +47,17 @@ export function About() {
             <div className="grid grid-cols-3 gap-6 mb-8">
               <div className="text-center relative">
                 <div className="absolute -top-2 left-1/2 -translate-x-1/2 w-8 h-1 bg-yellow-500"></div>
-                <div className="text-4xl text-yellow-400 mb-2">50+</div>
+                <div className="text-4xl text-yellow-400 mb-2">3+</div>
                 <div className="text-stone-400 text-sm">Projects Launched</div>
               </div>
               <div className="text-center relative">
                 <div className="absolute -top-2 left-1/2 -translate-x-1/2 w-8 h-1 bg-red-700"></div>
-                <div className="text-4xl text-red-500 mb-2">15M+</div>
+                <div className="text-4xl text-red-500 mb-2">1M+</div>
                 <div className="text-stone-400 text-sm">Active Users</div>
               </div>
               <div className="text-center relative">
                 <div className="absolute -top-2 left-1/2 -translate-x-1/2 w-8 h-1 bg-emerald-600"></div>
-                <div className="text-4xl text-emerald-500 mb-2">30+</div>
+                <div className="text-4xl text-emerald-500 mb-2">5+</div>
                 <div className="text-stone-400 text-sm">Team Members</div>
               </div>
             </div>
