@@ -16,7 +16,7 @@ const products = [
     accent: 'green',
   },    {
     title: 'Mama Putt',
-    category: 'Digital Art Platform',
+    category: 'Nigerian Buka and Combat Simulation Mobile Game',
     description: 'Create stunning digital art in 3D space with our revolutionary mixed reality creation platform.',
     image: 'https://res.cloudinary.com/drrkmnmct/image/upload/v1768153060/MamaPutt_udoldg.png',
     rating: 4.7,
