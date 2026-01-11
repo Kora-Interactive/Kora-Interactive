@@ -15,7 +15,7 @@ export function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <ImageWithFallback
-          src="/src/assets/photo-1640823127518-65e1ad563576.jpg"
+          src="https://res.cloudinary.com/drrkmnmct/image/upload/v1768153057/photo-1640823127518-65e1ad563576_t5amif.jpg"
           alt="VR Gaming Experience"
           className="w-full h-full object-cover"
         />
