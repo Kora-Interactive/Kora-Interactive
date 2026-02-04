@@ -188,7 +188,7 @@ export function Products() {
                   </div>
 
                   {/* CTA Button */}
-                  <Link to={`/product/${product.title.toLowerCase().replace(/\s+/g, '-')}`}>
+                  <Link to={"https://mamaputt.netlify.app/"}>
                     <button className={`w-full py-3 border-2 ${colors.border} rounded-full hover:${colors.bg} hover:border-transparent transition-all flex items-center justify-center gap-2 group/btn`}>
                       <span>Learn More</span>
                       <ArrowRight className="w-4 h-4 group-hover/btn:translate-x-1 transition-transform" />
